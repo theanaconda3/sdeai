@@ -1,0 +1,27 @@
+Aravind -> Ajay
+1. 2 + 4 = ? , 6 
+2. 6 + 2 = ? , 8
+3. 8 * 3 = ? ,  24
+4. 24 * 3849293  = ?, ..
+
+Rules: Syntax
+Every programming lang has it's own rules. 
+
+Computers: RAM (16GB) + CPU
+
+program / code
+
+
+A variable is just a container which holds data
+
+a = 10 (Assignment instruction)
+a -> variable name
+= => Assignment operator
+10 => data
+
+
+Comments -> Sticky notes for your program.
+Compilers ignores the comments
+
+Single line comments: # .......
+Multi line comments: """....""" , '''....'''
